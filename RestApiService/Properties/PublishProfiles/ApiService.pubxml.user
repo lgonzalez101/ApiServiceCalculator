@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAkod/KJbZn0KKjiFhtkV9awAAAAACAAAAAAAQZgAAAAEAACAAAAAXlCkDARRvVCJIufP6Xfu97V6jAhionqezTZO0WHszRgAAAAAOgAAAAAIAACAAAABW89pf7uKPiZiFIa8C7rVeImoCUxBTR+V8ix/y3dOk0SAAAACuV0vTKvm9Sn6HzZkJh5iFfevCG+YlR5imRLgzVsceZ0AAAABTjyisdGaVm3HWsAoCpxDkzkVa9rybByx7KDxb+5EI+OdJ4b8SfIjF+7cqdI7jQ4KZGvsh4IDTPEtWbRpC6CaC</EncryptedPassword>
-    <_PublishTargetUrl>ftp://Courage.somee.com</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAkod/KJbZn0KKjiFhtkV9awAAAAACAAAAAAAQZgAAAAEAACAAAAB967dmp6wzATC6gLF+Kt/ELYfJkkSjZce+zwTHEItc8AAAAAAOgAAAAAIAACAAAACzazhbn1Zs2vfY9MdRSd06kYTv3z9/3skFcZgnN0eBVCAAAAAFzVB+2ZSlQawNkXeHqo9U3BXdJlWYPem82Tk0m4/XY0AAAABGUk28L1xyVpffrNuAt9YDg/ZnHv4/7d/X/64pnH7gJlaKTy1fuiGgyrDXqYpH2RLzb9Lrzaa3Wr94DuLJiMw7</EncryptedPassword>
+    <_PublishTargetUrl>ftp://courage.somee.com</_PublishTargetUrl>
   </PropertyGroup>
 </Project>
